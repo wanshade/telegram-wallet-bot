@@ -9,7 +9,7 @@ To set up the Telegram Wallet Bot, follow these steps:
 
 1. Install the required packages:
    ```
-   npm install node-telegram-bot-api web3 dotenv
+   npm install 
    ```
 
 2. Create a Telegram bot and obtain an API token. Refer to the Telegram Bot API documentation for more details.
@@ -28,7 +28,7 @@ To set up the Telegram Wallet Bot, follow these steps:
 
 1. Start the bot by running the following command:
    ```
-   node <your-file-name>.js
+   node index.js
    ```
 
 2. Interact with the bot in a Telegram chat:
