@@ -1,6 +1,7 @@
 # Telegram Wallet Bot
 
 Telegram Wallet Bot is a Telegram bot that allows users to interact with an Ethereum wallet. It provides features such as checking wallet balance, sending Ether to another address, importing wallets using private keys, and more.
+Supported network are, Ether mainnet, sepolia, goerli, BSC, Matic, 
 
 ## Setup
 
